@@ -1,3 +1,5 @@
 teste
 Entendendo o HEAD
 nova alteração
+Esta linha foi modificada no ramo Master
+
